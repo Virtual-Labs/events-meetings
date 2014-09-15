@@ -26,5 +26,7 @@ Pre-req - One experiment structured as per UI
 Post-condition- How to test for secruity & performance in their labs
 
 Overall take-away - 
-1) Learning how to make lab auto-deployable (learning how to make the lab spec)
-2) Restructuring labs as per UI Toolkit 1.0
+1) Learn how to make lab auto-deployable (learning how to make the lab spec)
+2) Restructure labs as per UI Toolkit 1.0
+3) Learn how to optimize labs for performance
+4) Learn to avoid well known security vulnerablities.
