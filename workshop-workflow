@@ -1,0 +1,30 @@
+Day 1
+Bring sources
+Learn Gif
+Create repository in GitHub + Commit Sources
+CentOS -> OpenVZ 
+Pre-condition - Lab sources, Laptop with CentOS
+Post-condition - OpenVZ installed
+
+Day 2
+-> OVPL
+Restructure according to OVPL spec
+Build Lab Spec -> Auto Deploy
+Pre-condition - All sources on GitHub
+Post-condition- Lab-spec of unstructured lab will be ready and deployed in a container
+
+Day 3 & Day 4
+UI toolkit (deploy 1 experiment)
+New lab spec
+Pre-req - restructure one experiement that is unstructured
+Post-condition - one lab is structured
+
+Day 5
+Performance
+Security
+Pre-req - One experiment structured as per UI 
+Post-condition- How to test for secruity & performance in their labs
+
+Overall take-away - 
+1) Learning how to make lab auto-deployable (learning how to make the lab spec)
+2) Restructuring labs as per UI Toolkit 1.0
