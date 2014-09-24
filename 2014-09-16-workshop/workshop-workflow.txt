@@ -1,6 +1,6 @@
 Day 1
 Bring sources
-Learn Gif
+Learn Git
 Create repository in GitHub + Commit Sources
 CentOS -> OpenVZ 
 Pre-condition - Lab sources, Laptop with CentOS

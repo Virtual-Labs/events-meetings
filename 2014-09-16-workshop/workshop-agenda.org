@@ -1,0 +1,172 @@
+* An overview of the workshop on Lab Integration, September [16,17,18,19,20] 2014
+** Program Listing for each session.
+
+  - Each session will have primary presenters who will present or
+  run the session. They will be assisted by facilitators who will help
+  the engineers, pitch in with explanations, respond to queries/help
+  during the session.
+
+  - Facilitators will also document the key issues, findings, or
+  learning of each session.
+
+  - Sessions should encourage participants to perform hands­on exercises
+  and activities using their labs.
+
+|---------------+------------+----------------------+--------------+------------+-------------------------------|
+| Day #:        | Session    | Name of the Session  | Presenters   | Facili-    | Comments                      |
+| Program       | Timing     |                      |              | tators     |                               |
+| Name          |            |                      |              |            |                               |
+|---------------+------------+----------------------+--------------+------------+-------------------------------|
+| Day 01:       | 09:00 AM - | Registrations of     |              |            | Participants                  |
+| Introduction  | 09:45 AM   | participants.        | Prof Nori    |            | will be seated,               |
+| and Know your |            | Workshop Inaugration | Dr Venkatesh |            | and will sign an              |
+| repo on       |            | Welcome address      |              |            | attendance sheet              |
+| GitHub        |            |                      |              |            |                               |
+|               | 09:30 AM - | Why this Workshop?   | Thirumal     | Geeta      | Setting the Context           |
+|               | 10:45 AM   | Goals,               |              |            | for workshop,                 |
+|               |            | Day-wise Outline,    |              |            | Stating the                   |
+|               |            | Expectations         |              |            | deliverables                  |
+|               |            |                      |              |            | from the workshop,            |
+|               | 10:45 AM - | Tea Break            |              |            | Managing expectations         |
+|               | 11:00 AM   |                      |              |            | of the engineers              |
+|               |            |                      |              |            |                               |
+|               | 11:00 AM - | How to               | Prakash      | Soumay     | Create repos.                 |
+|               | 01:00 PM   | version control      | Amulya       | Anon       |                               |
+|               |            | with git &           |              |            |                               |
+|               |            | Github basics        |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 01:00 PM - | Lunch Break          |              |            |                               |
+|               | 02:00 PM   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 02:00 Pm - | Practise Session:    | Prakash      | Jayanth    | Push Code,                    |
+|               | 03:30 PM   | Locate your lab      | Amulya       | Anon       | documentation etc             |
+|               |            | source.              |              |            |                               |
+|               |            | Clone a Repository   |              |            |                               |
+|               |            | Push the lab source  |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 03:30 PM - | Tea Break            |              |            |                               |
+|               | 03:45 PM   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 03:45 PM - | OpenVZ:              | Jayanth      | Ishan      | This session                  |
+|               | 05:00 PM   | Introduction         | Yogesh       |            | introduces participants       |
+|               |            | Installation         |              |            | to OpenVZ,                    |
+|               |            |                      |              |            | Post this participants        |
+|               |            |                      |              |            | will start the                |
+|               |            |                      |              |            | virtualization process        |
+|               |            |                      |              |            | on their system               |
+|               |            |                      |              |            | [[https://docs.google.com/presentation/d/1R8wxlZeMqNc8S1Z3vO7TfogM_2g5adCjEGEN8d1wlcQ/edit?usp=sharing][Document for presentation]]     |
+| Day 1         |            | Ensure all the       | Jayanth      |            |                               |
+| Assignment    |            | lab sources          | Anon         |            | At the end of the day         |
+|               |            | brought to the       |              |            | lab source should be          |
+|               |            | workshop are         |              |            | version controlled on github. |
+|               |            | version controlled   |              |            |                               |
+|---------------+------------+----------------------+--------------+------------+-------------------------------|
+| Day 02:       | 09:30 AM - | Introduction to      | Thirumal     | Prakash    | Introduction to               |
+| What it       | 10:15 AM   | Integration and      |              | Amulya     | integration levels,           |
+| takes to      |            | Auto-deployment      |              |            | Merits of auto deployment     |
+| deploy a lab  |            |                      |              |            | and centralized hosting       |
+|               | 10:15 AM - | Review the           | Jayanth      |            |                               |
+|               | 10:45 AM   | assignment 1         | Anon         |            |                               |
+|               |            |                      |              |            |                               |
+|               | 10:45 AM - | Tea Break            |              |            |                               |
+|               | 11:00 Am   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 11:00 AM - | Installation of OVPL | Prakash      | Anon       | Demo + lab deployment         |
+|               | 01:00 PM   |                      |              |            | by participants               |
+|               |            |                      |              |            |                               |
+|               | 01:00 AM - | Lunch Break          |              |            |                               |
+|               | 02:00 PM   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 02:00 PM - | Lab deployment       | Prakash      | Anon       |                               |
+|               | 03:30 PM   | continued            | Amulya       | Soumya     |                               |
+|               |            |                      |              |            |                               |
+|               | 03:30 PM - | Tea Break            |              |            |                               |
+|               | 03:45 PM   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 03:45 PM - | Lab deployment       | Prakash      | Anon       | At the end of the day,        |
+|               | 05:00 PM   | continued            | Amulya       | Soumya     | - deployment specification    |
+|               |            |                      |              |            | for a lab has to developed.   |
+|               |            |                      |              |            | - a lab has to be auto        |
+|               |            |                      |              |            | deployed in a container       |
+|---------------+------------+----------------------+--------------+------------+-------------------------------|
+| Day 03:       | 09:30 AM - | Introducing UI       | Soujanya     | Ambika     | Objective is to move          |
+| Making Labs   | 10:45 AM   | toolkit 1.0          | Madhavi      | Khushpreet | unstructured labs to          |
+| standard.     |            |                      |              | Vani       | structured UI 1.0 format.     |
+|               |            |                      |              |            | Labs that are already         |
+|               | 10:45 AM - | Tea Break            |              |            | on Amrita can use             |
+|               | 11:00 AM   |                      |              |            | automated script to           |
+|               |            |                      |              |            | move to UI 1.0                |
+|               |            |                      |              |            |                               |
+|               | 11:00 AM - | Make an experiment   | Ambika       | Soujanya   | Hands-on-session              |
+|               | 1.00 PM    | in a lab to be       | Madhavi      | Vani       |                               |
+|               |            | UI 1.0  complaint    |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 01:00 PM - | Lunch Break          |              |            |                               |
+|               | 02:00 PM   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 02:00 PM - | Extracting a lab     | Soujanya     | Vani       | Hands-on-session              |
+|               | 03:30 PM   | from Amritha and     | Khuspreet    | Ambika     |                               |
+|               |            | making it UI 1.0     |              |            |                               |
+|               |            | compliant            |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 03:30 PM - | Tea Break            |              |            |                               |
+|               | 03:45 PM   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 03:45 PM - | Work on the          | Madhavi      | Ambika     | Hands-on-session              |
+|               | 05:00 PM   | earlier experiment   | Khuspreet    | Vani       | At the end of the day,        |
+|               |            | to make to UI 1.0    | Soujanya     |            | - an experiment in a lab      |
+|               |            | compliant            |              |            | has to be UI1.0 compliant.    |
+|---------------+------------+----------------------+--------------+------------+-------------------------------|
+| Day 04:       | 9:30 till  | Work on more         | Ambika       | Aon        | At the end of the day,        |
+| Repeat of     | end of day | experiments          | Soujanya     | Prakash    | - all experiments in a lab    |
+| Day 02 and    |            | and make them        | Amulya       | Ambika     | should be UI 1.0 compliant.    |
+| Day 03        |            | UI 1.0 compliant     | Soumya       |            | - deployment spec for         |
+|               |            | Use the auto         |              |            | another lab should            |
+|               |            | deployment           |              |            | be developed.                 |
+|               |            | mechanism to         |              |            |                               |
+|               |            | test the changes.    |              |            |                               |
+|               |            |                      |              |            |                               |
+|               |            | Iterate this process |              |            |                               |
+|               |            | for another Lab      |              |            |                               |
+|---------------+------------+----------------------+--------------+------------+-------------------------------|
+| Day 05:       | 09:30 AM - | Web                  | Ishan        | Jayanth    | Explanation of various        |
+| Security and  | 10:45 Am   | application          | Sharma       | Yogesh     | web venerabilities            |
+| Performance   |            | security             |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 10:45 AM - | Tea Break            |              |            |                               |
+|               | 11:00 AM   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 11:00 AM - | Automating           | Ishan        | Jayanth    | Tool Demo                     |
+|               | 01:00 PM   | web applcation       | Sharma       | Yogesh     |                               |
+|               |            | security             |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 01:00 PM - | Lunch Break          |              |            |                               |
+|               | 02:00 PM   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 02:00 PM - | Critical             | Jatin        | Soujanya   | Basic understanding of        |
+|               | 03:30 PM   | rendering path       | Agarwal      | Jayanth    | how does a web page           |
+|               |            | and optimization     |              | Madhavi    | work and best practice        |
+|               |            |                      |              | Ambika     | for developing an web         |
+|               | 03:30 PM - | Tea Break            |              |            | application                   |
+|               | 03:45 PM   |                      |              |            |                               |
+|               |            |                      |              |            |                               |
+|               | 03:45 PM - | Tools for measuring  | Jatin        | Soujanya   | Hands on session on           |
+|               | 05:00 PM   | performance          | Agarwal      | Jayanth    | how to use YSlow,             |
+|               |            |                      | Nurendra     | Madhavi    | Pagespeed and                 |
+|               |            |                      | Choudhary    | AMbika     | Webpagetest                   |
+|---------------+------------+----------------------+--------------+------------+-------------------------------|
+
+
+
+** Back-end preperation for the workshop 
+|---------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------------------------------------------+---------|
+| Activities                                                                                                    | Team responsibility                                                                                                                                                                                  | Point of Contacts                          | Location of workshop material                                          | Comment |
+|---------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------------------------------------------+---------|
+| Ensure IIIT-H servers hosting our labs are up and running all through the workshop duration                   | Ishan, Jayanth, Yogesh,Saikrishna, Soumya and Saurabh                                                                                                                                                | Ishan, Anon                                | Provide necessary access & permissions to team members managing this.  |         |
+| Internet & Systems                                                                                            | Yogesh & Saikrishna                                                                                                                                                                                  |                                            |                                                                        |         |
+| Workshop presentation slides, activities & assignments                                                        | Jayanth & Yogesh (for  OpenVZ), Prakash & Amulya (for OVPL), Thirumal (for Integration Levels), Ishan (for Security), Jatin (for Performance), Ambika, Kushpreet,Soujanya & Madhavi (for UI Toolkit) |                                            | https://github.com/VirtualÂ­Labs/EventsÂ­MeetingsLabs/EventsÂ­Meetings |         |
+| a. Lab Integration Kit, b. Documentation, c. Sources, d. Tools etc                                            | Prakash & Amulya (for OVPL), Ishan (for Security), Jatin (for Performance)                                                                                                                           |                                            | https://github.com/VirtualÂ­Labs/labÂ­integrationÂ­kit                 |         |
+| REcording of Wrokshop                                                                                         | Geeta                                                                                                                                                                                                | Geeta                                      |                                                                        |         |
+| a. Keeping 5 systems ready on standby  b. LAN/Wi-Fi, c. System configuration, d. BackÂ­end servers & systems  | Systems team                                                                                                                                                                                         | Ishan, Saikrishna, Yogesh, Jayanth, Soumya |                                                                        |         |
+| a. Accommodation & meals of participants, b. Getting the VLEAD conference room ready, c. Whiteboard/Projector | Pushpalatha                                                                                                                                                                                          |                                            |                                                                        |         |
+|---------------------------------------------------------------------------------------------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+--------------------------------------------+------------------------------------------------------------------------+---------|
